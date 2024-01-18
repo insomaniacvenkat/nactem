@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SampleApp</string>
+    <string name="sucess_message">Success</string>
+    <string name="empty_short_form">Please provide a valid abbreviation.</string>
+    <string name="single_char">Abbreviation can\'t be a single character.</string>
+    <string name="non_alpha_char">Abbreviation can contain only alphabets.</string>
+    <string name="network_error">Please check Internet Connectivity.</string>
+    <string name="response_error">Response is null or empty.</string>
+</resources>
