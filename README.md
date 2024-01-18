@@ -1,7 +1,11 @@
 # Project Title
 
 An android app used to call demo API using Kotlin.
-This Web service receives a query abbreviation or fullform as parameters, and returns abbreviation definitions in JSON format. 
+This Web service receives a query abbreviation or fullform as parameters, and returns abbreviation definitions in JSON format.
+![image](https://github.com/insomaniacvenkat/nactem/assets/80594141/c67cd1c2-9678-4b7b-9de0-e88b1b81b87e)
+
+![image](https://github.com/insomaniacvenkat/nactem/assets/80594141/568dc30d-cdd5-40e0-8159-7b927ecfdde2)
+
 ## Table of Contents
 
 - [Dependencies](#dependencies)
